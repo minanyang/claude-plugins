@@ -1,0 +1,19 @@
+{
+  "name": "minanyang",
+  "owner": {
+    "name": "Min-An Yang (minanyang)"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Min-An Yang (minanyang)."
+  },
+  "plugins": [
+    {
+      "name": "veland",
+      "source": {
+        "source": "github",
+        "repo": "minanyang/veland"
+      },
+      "description": "Your agent says it's done. veland checks, then lands it."
+    }
+  ]
+}
