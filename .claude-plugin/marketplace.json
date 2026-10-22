@@ -14,6 +14,16 @@
         "repo": "minanyang/veland"
       },
       "description": "Your agent says it's done. veland checks, then lands it."
+    },
+    {
+      "name": "nameable",
+      "source": {
+        "source": "git-subdir",
+        "url": "minanyang/nameable",
+        "path": "plugins/nameable",
+        "ref": "v0.1.0"
+      },
+      "description": "Find out if a name is free everywhere your project will ship, and don't take a 404 for a yes."
     }
   ]
 }
