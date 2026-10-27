@@ -24,7 +24,7 @@
         "path": "plugins/nameable",
         "ref": "v2.0.0"
       },
-      "description": "Find out if a name is free everywhere your project will ship, and don't take a 404 for a yes."
+      "description": "Is the name really free? Nameable checks every registry, store and domain your project needs."
     }
   ]
 }
