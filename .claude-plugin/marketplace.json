@@ -22,7 +22,7 @@
         "source": "git-subdir",
         "url": "minanyang/nameable",
         "path": "plugins/nameable",
-        "ref": "v2.0.0"
+        "ref": "v2.0.1"
       },
       "description": "Is the name really free? Nameable checks every registry, store and domain your project needs."
     }
