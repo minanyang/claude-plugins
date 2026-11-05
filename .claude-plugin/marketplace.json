@@ -8,13 +8,13 @@
   },
   "plugins": [
     {
-      "name": "veland",
+      "name": "10x",
       "source": {
         "source": "github",
-        "repo": "minanyang/veland",
-        "ref": "v0.2.0"
+        "repo": "minanyang/10x-agent",
+        "ref": "v0.1.0"
       },
-      "description": "Your agent says it's done. veland checks, then lands it."
+      "description": "A multi-agent workflow for shipping code: agents plan, build and review, and nothing lands without evidence a script can check."
     },
     {
       "name": "nameable",
